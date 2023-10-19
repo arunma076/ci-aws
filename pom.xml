@@ -215,7 +215,7 @@
       <repository>
         <id>codeartifact</id>
         <name>codeartifact</name>
-    <url>codecommit-maven-central-store</name>
+    <name>codecommit-maven-central-store</name>
     <url>https://codecommit-749602827097.d.codeartifact.us-east-1.amazonaws.com/maven/maven-central-store/</url>
       </repository>
     </repositories>
